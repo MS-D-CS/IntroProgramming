@@ -1,4 +1,4 @@
-<h1> Assignment 1 </h1>
+# Assignment 1
 ## by Ms. Dolderer
 ### Due September 10
 ---
